@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bokyung!</h1>
 <h3 align="center">Easy to see frontend developer</h3>
 
-- 🔭 I recently finished working on [포뉴(FocusNews)](https://github.com/imfromkoreah/FocusNews)
+- 🔭 I recently finished working on [뮤스페이퍼(MewsPaper)](https://github.com/imfromkoreah/MewsPaper.git)
 
 - 👯 I’m currently working on [테일탱고(TaleTango)](https://github.com/imfromkoreah/Tale-Tango)
 
